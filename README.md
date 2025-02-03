@@ -9,7 +9,7 @@ Hi, I'm **Utkarsh Pramod Puranik**, a **Computer Engineering** student at **Dr. 
 - **Concepts**: Data Structures, Algorithms, AI-driven applications
 
 ## 📫 Contact
-- **Email**: puranikutkarsh@gmail,com
+- **Email**: puranikutkarsh@gmail.com
 - **LinkedIn**: [www.linkedin.com/in/utkarsh-puranik-648861228]
 
 ---
